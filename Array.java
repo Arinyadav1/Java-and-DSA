@@ -27,11 +27,11 @@ public class Array{
                     System.out.print(matrix[row][cE] +" ");
                 }
                 cE--;
-                for (int col2 = cE; cE <= col2; col2--){
+                for (int col2 = cE; cE >= cS; col2--){
                     System.out.print(matrix[rE][col2] +" ");
                 }
                 rE--;
-                for (int row2 = rE; rE <= row2; row2--){
+                for (int row2 = rE; rE >= rS; row2--){
                     System.out.print(matrix[row2][cS] +" ");
                 }
                 cS++;
