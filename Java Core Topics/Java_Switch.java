@@ -1,5 +1,6 @@
+
 import java.util.*;
-public class calculator {
+public class Java_Switch {
     public static void main(String [] argu){
         @SuppressWarnings("resource")
         Scanner sc = new Scanner (System.in);

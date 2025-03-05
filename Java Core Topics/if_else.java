@@ -2,31 +2,11 @@ import java.util.*;
 
 public class if_else {
     public static void main(String [] args){
+        @SuppressWarnings("resource")
         Scanner arin = new Scanner(System.in);
-        System.out.println("Find month name by month number8");
+        System.out.println("Find month name by month number = ");
         int a = arin.nextInt();
        
-        // if (a == 1){2
-        //     System.out.println("Hi");
-        // }
-        // else if ( a == 2){
-        //     System.out.println("How are You?");
-        // }
-        // else if (a == 3){
-        //     System.out.println("Bye");
-        // }
-        // else {
-        //     System.out.println( "Value not define");
-        // }
-    //    switch(a){
-    //     case 1 : System.out.println("Hi");
-    //     break;
-    //     case 2 : System.out.println("How are You?");
-    //     break;
-    //     case 3 : System.out.println("Bye");
-    //     break;
-    //     default : System.out.println("Value Not Define");
-    //    }
     if (a == 1){
         System.out.println("Janauary");
     } else {

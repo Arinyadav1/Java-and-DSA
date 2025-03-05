@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class Array{
+public class Spiral_order_matrix {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Numbers of Row = ");
         int r = sc.nextInt();
@@ -27,11 +28,11 @@ public class Array{
                     System.out.print(matrix[row][cE] +" ");
                 }
                 cE--;
-                for (int col2 = cE; cE >= cS; col2--){
+                for (int col2 = cE; col2 >= cS; col2--){
                     System.out.print(matrix[rE][col2] +" ");
                 }
                 rE--;
-                for (int row2 = rE; rE >= rS; row2--){
+                for (int row2 = rE; row2 >= rS; row2--){
                     System.out.print(matrix[row2][cS] +" ");
                 }
                 cS++;
