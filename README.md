@@ -149,7 +149,31 @@
       <p><i></p>
     </td>
   </tr>
-      </table>
+
+
+  <tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Binary_Program">Bit Manipulation</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+ <tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Exceptions">Exceptions</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>  
+     
+</table>
 
   ## Explore all topics of OPPS Programming in Java
 
@@ -250,6 +274,18 @@
   </tr>
 
 
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/OOPs%20in%20Java/bank/Bank.java">Package</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
   <tr>
     <td>
       <il>
@@ -323,12 +359,12 @@
 </table>  
 
 
-##
+## Data Structures and Algorithms All topics 
 <table>
  <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sorting_java/Bubble.java">Bubble Sort</a></li>
       </il>
     </td>
     <td>
@@ -340,7 +376,7 @@
  <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sorting_java/Insertion.java">Insertion Sort</a></li>
       </il>
     </td>
     <td>
@@ -352,7 +388,7 @@
  <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sorting_java/Selection.java">Selection Sort</a></li>
       </il>
     </td>
     <td>
@@ -364,6 +400,162 @@
  <tr>
     <td>
       <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Advance_Sorting/Merge_sort.java">Merge Sort</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Advance_Sorting/Quick_sort.java">Quick Sort</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Recursion_java">Recursion</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/ArrayList_java">ArrayList</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Linked_List.java">LinkedList</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Stack">Stack</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Queue">Queue</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/BinaryTree">Binary Tree</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/BinarySearchTree">Binary Search Tree</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Hashing/Hashmap.java">HashMap</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Hashing/Hashset.java">HashSet</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Trie">Trie</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/Graph">Graph</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+</table>  
+
+## Solve Problems
+<table>
+<tr>
+    <td>
+      <il>
         <li><a href ="">if-else</a></li>
       </il>
     </td>
@@ -371,5 +563,68 @@
       <p><i></p>
     </td>
   </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
 
 </table>
