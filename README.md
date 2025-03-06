@@ -474,7 +474,7 @@
 <tr>
     <td>
       <il>
-        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/BinaryTree">Bi<nary Tree/a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/tree/main/BinaryTree">Binary Tree</a></li>
       </il>
     </td>
     <td>
@@ -540,8 +540,11 @@
       <p><i></p>
     </td>
   </tr>
+</table>  
 
 
+
+<table>
 <tr>
     <td>
       <il>
