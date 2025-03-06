@@ -9,7 +9,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/if_else.java">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/if_else.java">if-else</a></li>
       </il>
     </td>
     <td>
@@ -21,7 +21,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/calculator.java">Switch</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Java_Switch.java">Switch</a></li>
       </il>
     </td>
     <td>
@@ -34,7 +34,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/while_loop.java">While-loop</a></li>
       </il>
     </td>
     <td>
@@ -46,7 +46,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/do_while_loop.java">Do While Loop</a></li>
       </il>
     </td>
     <td>
@@ -58,7 +58,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/For_Loop.java">For Loop</a></li>
       </il>
     </td>
     <td>
@@ -70,7 +70,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Break.java">Break</a></li>
       </il>
     </td>
     <td>
@@ -82,7 +82,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Continue.java">Continue</a></li>
       </il>
     </td>
     <td>
@@ -94,7 +94,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Operators.java">Operators</a></li>
       </il>
     </td>
     <td>
@@ -106,7 +106,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Type_Casting.java">Type-Casting</a></li>
       </il>
     </td>
     <td>
@@ -118,7 +118,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Function.java">Function</a></li>
       </il>
     </td>
     <td>
@@ -130,7 +130,7 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Java_Array.java">Array</a></li>
       </il>
     </td>
     <td>
@@ -142,13 +142,15 @@
   <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Java%20Core%20Topics/Java_String.java">String</a></li>
       </il>
     </td>
     <td>
       <p><i></p>
     </td>
   </tr>
+
+  ## Explore all topics of OPPS Programming in Java
 
 
   <tr>
