@@ -1,5 +1,4 @@
-import java.util.*;
-import java.lang.*;;
+import java.util.*;;
 public class Dijkstra_Algorithms{ 
     static class Edge {
         int src;

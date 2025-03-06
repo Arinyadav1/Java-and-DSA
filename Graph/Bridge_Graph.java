@@ -86,7 +86,7 @@ public class Bridge_Graph {
         ArrayList<Edge> graph[] = new ArrayList[v]; 
         createGraph(graph);
 
-        boolean visted[] = new boolean[graph.length];
+        // boolean visted[] = new boolean[graph.length];
         
         // it is for connected components
         // depthFirstSearch(graph, 0, visted2);

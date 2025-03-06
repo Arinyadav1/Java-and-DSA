@@ -1,4 +1,5 @@
 public class Array_Queue { 
+    
     static class Queue{
         static int arr[];
         static int size;
@@ -6,14 +7,14 @@ public class Array_Queue {
 
         Queue(int n){
             arr = new int[n];
-            this.size = n;
+            Queue.size = n;
         }
-        public static boolean isEmpty() {
+        public boolean isEmpty() {
             return rear == -1;
         }
 
         //add
-        public static void add(int data){
+        public void add(int data){
             if(rear == size-1){
                 System.out.println("Array is Full");
             }
@@ -22,7 +23,7 @@ public class Array_Queue {
         }
 
         //remove
-        public static int remove(){
+        public int remove(){
             if(isEmpty()){
                 return -1;
             }
@@ -35,7 +36,7 @@ public class Array_Queue {
         }
 
         // peek
-        public static int peek() {
+        public int peek() {
             if(isEmpty()){
                 return -1;
             }

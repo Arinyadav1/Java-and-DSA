@@ -7,7 +7,7 @@ public class Static {
         Student.school = "DPS";
         Student s1 = new Student();
         s1.name = "Rohan";
-        System.out.println(s1.school);
+        System.out.println(Student.school);
         System.out.println(s1.name);
     }
 }

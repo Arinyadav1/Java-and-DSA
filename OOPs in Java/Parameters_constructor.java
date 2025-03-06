@@ -18,7 +18,6 @@ class Student{
         this.semester = sem;
         this.branch = branch;
         this.section = sec;
-        printData();
        
        
     }
@@ -32,7 +31,8 @@ public class Parameters_constructor {
         String branch = "Computer Science";
         char section = 'D';
         Student stdData = new Student(name, rollNumber, semester, branch, section);
-        // stdData.printData();
+        stdData.printData();
+       
 
 
     }

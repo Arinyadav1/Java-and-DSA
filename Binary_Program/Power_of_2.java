@@ -2,6 +2,7 @@ import java.util.*;
 public class Power_of_2 {
     public static void main(String[] args) {
         // find if a number is a power of 2 or not
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner (System.in);
         System.out.print("Enter number = ");
         int number = sc.nextInt();

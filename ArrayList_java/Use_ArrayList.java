@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-public class Problem {
+public class Use_ArrayList {
     /*
       ArrayLists are dynamic and resizable collections of elements.
       Here are some method for use ArrayList
@@ -11,7 +11,6 @@ public class Problem {
       size()
       add(value)
      */
-    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
     ArrayList<Integer> num = new ArrayList<Integer>();
   

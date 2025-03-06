@@ -1,6 +1,7 @@
 import java.util.*;
 public class Convert {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner (System.in);
         System.out.print("Enter Decimal Number for Conver In Binary = ");
         int decimal = sc.nextInt();

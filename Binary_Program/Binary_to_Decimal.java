@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Binary_to_Decimal {
     public static void main (String args []){
         // convert binary number to decimal number
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         System.out.print("Eneter Binary Number = ");
         long binaryNumber = sc.nextLong();

@@ -8,6 +8,7 @@ public class Factorial {
         int n = sc.nextInt();
        
         System.out.println(calculateFactorial(n));
+        sc.close();
     }
     public static int calculateFactorial(int n) {
         if(n == 1 || n == 0){

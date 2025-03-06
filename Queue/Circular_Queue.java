@@ -7,16 +7,16 @@ public class Circular_Queue{
 
         public Queue(int n) {
             arr = new int[n];
-            this.size = n;
+            Queue.size = n;
         }
-        public static boolean isEmpty() {
+        public boolean isEmpty() {
             return rear == -1 && front == -1;
         }
         public static boolean isFull() {
             return ((rear + 1)%size) == front;
         }
         //add
-        public static void add(int data) {
+        public void add(int data) {
             if(isFull()){
                 System.out.println("Queue is full");
                 return;
@@ -29,7 +29,7 @@ public class Circular_Queue{
         }
 
         //remove
-        public static int remove() {
+        public int remove() {
             if(isEmpty()){
                 return -1;
             }
@@ -43,7 +43,7 @@ public class Circular_Queue{
         }
 
         // peek
-        public static int peek() {
+        public int peek() {
             if(isEmpty()){
                 return -1;
             }

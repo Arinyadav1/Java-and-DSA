@@ -10,6 +10,7 @@ public class Fibonacci {
         System.out.println(a);
         System.out.println(b);
         printFibonacciSeries(num-2, a, b);
+        sc.close();
     }
     public static void printFibonacciSeries(int n, int a, int b) {
         if(n == 0){

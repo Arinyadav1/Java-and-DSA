@@ -12,12 +12,12 @@ public class Queue_LinkedList {
         static Node head = null;
         static Node tail = null;
 
-        public static boolean isEmpty() {
+        public boolean isEmpty() {
             return head == null & tail == null;
         }
 
         //add
-        public static void add(int data) {
+        public void add(int data) {
             Node newNode = new Node(data);
             if(tail == null){
                 tail = head = newNode;
@@ -28,7 +28,7 @@ public class Queue_LinkedList {
         }
 
         //remove
-        public static int remove() {
+        public int remove() {
             if(isEmpty()){
                 return -1;
             }
@@ -41,7 +41,7 @@ public class Queue_LinkedList {
         }
 
         //peek
-        public static int peek() {
+        public int peek() {
             if(isEmpty()){
                 return -1;
             }

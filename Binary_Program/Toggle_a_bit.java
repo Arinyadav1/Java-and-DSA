@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Toggle_a_bit {
+    @SuppressWarnings("resource")
     public static void main (String [] arg){
         Scanner sc = new Scanner (System.in);
         System.out.print("Enter the Number = ");
