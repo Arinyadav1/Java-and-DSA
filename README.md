@@ -3,7 +3,7 @@
 
 <p><i>I mention all the topics which I was learn, you can explore my learning and efforts toward my passion of coding</i></p>
 
-## Explore All core topics of Java Programming
+## Explore All core and advanced topics of Java Programming
 
 <table>
   <tr>
