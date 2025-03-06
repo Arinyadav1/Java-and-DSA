@@ -250,6 +250,18 @@
   </tr>
 
 
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/OOPs%20in%20Java/bank/Bank.java">Package</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
   <tr>
     <td>
       <il>
