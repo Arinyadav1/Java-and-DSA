@@ -5,13 +5,14 @@ public class MoveAllX {
     }
     public static void moveTheXInEndOfTheString(String str, String movedStr, int inx, int Xcount) {
         if(inx == str.length()){
-            for(int i = 1; 1 <= Xcount; i++){
+            for(int i = 1; i <= Xcount; i++){
                 movedStr += 'x';
             }
             
             System.out.println(movedStr);
             return;
         }
+
         if(str.charAt(inx) == 'x' || str.charAt(inx) == 'X'){
             Xcount++;
             moveTheXInEndOfTheString(str, movedStr, inx+1, Xcount);
