@@ -562,9 +562,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Add_two_matrix.java">Add Two Matrix</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+   
   </tr>
 
 
@@ -574,9 +572,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Array_Rotation.java">Array Rotation</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+   
   </tr>
 
 
@@ -586,9 +582,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Binary_to_Decimal.java">Binary to Decimal</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+   
   </tr>
 
 
@@ -598,9 +592,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/subsetOfInt.java">Subset of Int</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -610,9 +602,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Boundary_of_matrix.java">Print Boundary Of Matrix</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+   
   </tr>
 
 
@@ -622,9 +612,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Print_x_power_nth.java">x to the power of n</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+   
   </tr>
 
 
@@ -634,9 +622,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Check_two_array.java">Compare Similar Array</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -646,9 +632,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/CombinationOFSum.java">Combination Of Sum</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -658,9 +642,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Copy_Array.java">Copy Array</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -670,9 +652,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Decimal_to_binary.java">Decimal to Binary</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -682,9 +662,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Determinant_of_matrix.java">Determinant Of Matrix</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -694,9 +672,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Diagonal_Matrix.java">Sum of Diagnoal of Matrix</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -707,9 +683,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Find_Smallest.java">Find Smallest in the Array</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -719,9 +693,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Find_largest.java">Find Largest in the Array</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+  
   </tr>
 
 
@@ -731,9 +703,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Find_distance_of_string.java">Find Distance of the String</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -743,9 +713,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Integer_to_roman.java">Integer to Roman</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+    
   </tr>
 
 
@@ -755,9 +723,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Min_and_Max.java">Find Min and Max in Array</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
+   
   </tr>
 
 
@@ -766,9 +732,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Normal_and_trace.java">Find Normal and Trace of the Matrix</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -780,9 +743,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Nqueen_problem.java">NQueen Problem</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -791,9 +751,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Replace_strings.java">Alphabetical Characters Name to Mathamatical Digits</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -804,9 +761,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Roman_to_integer.java">Roman to Integer</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -815,9 +769,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sort_Asend.java">Ascending Sorting</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -828,9 +779,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sort_Desend.java">Desending Sorting</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -839,9 +787,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sphere.java">Find Surface Area of Sphere</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -853,9 +798,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Spiral_order_matrix.java">Spiral Order Matrix</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -864,9 +806,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Transpose.java">Transpose of Matrix</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -877,9 +816,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/adult_kiddish_finder.java">Adult and Kiddish Finder</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr> 
 
 
@@ -888,9 +824,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/calculator.java">Calculator</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -901,9 +834,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/find_days_by_day_number.java">Find Day Name by Day Number</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -912,9 +842,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/String_program_java/Remove_dublicate.java">Remove Dublicate Characters in String</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -926,9 +853,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/String_program_java/Print_username.java">Print Username</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -937,9 +861,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Tower_of_Hanoi.java">Tower of Hanoi</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -950,9 +871,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Subsequence.java">Subsequence</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -961,9 +879,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Unique_Subsequence.java">Unique Subsequence</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -974,9 +889,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Fibonacci.java">Fibonacci Series</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -985,9 +897,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Keypad_Combination.java">Keypad Combination</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -998,9 +907,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Move_maze.java">Move Maze</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1009,9 +915,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Permutations.java">Permutations</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -1022,9 +925,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/PlaceTiles.java">Domino and Tromino Tiling</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1033,9 +933,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Sum_Nth_Natural_Number.java">Sum of Nth Natural Number</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -1046,9 +943,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/pairing.java">Friends Pairing Problem</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1057,9 +951,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Reverse_String.java">Reverse String</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -1070,9 +961,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Print_table.java">Print Table</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1081,9 +969,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Occurence_Of_String.java">Occurence of String</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -1094,9 +979,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/TopologicalSorting.java">Topological Sorting</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1105,9 +987,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Prims_Algoritham.java">Prims Algoritham</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -1118,9 +997,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Kosaraju_Algorithm.java">Kosaraju Algorithm</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1130,9 +1006,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Dijkstra_Algorithms.java">Dijkstra Algorithms</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1141,9 +1014,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Bellman_Ford_Algorithm.java">Bellman Ford Algorithm</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
@@ -1155,9 +1025,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/ArticulationPoint.java">Articulation Point</a></li>
       </il>
     </td>
-    <td>
-      <p><i></p>
-    </td>
   </tr>
 
 
@@ -1167,9 +1034,6 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       <il>
         <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Hashing/SubarraySum.java">Subarray Sum</a></li>
       </il>
-    </td>
-    <td>
-      <p><i></p>
     </td>
   </tr>
 
