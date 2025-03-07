@@ -188,7 +188,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A class is a blueprint or template for creating objects. It defines the properties (variables) and behaviors (methods) that an object can have.</p>
     </td>
   </tr>
 
@@ -200,7 +200,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A copy constructor is a special constructor used to create a new object as a copy of an existing object, ensuring that the new object has the same values as the original.</p>
     </td>
   </tr>
 
@@ -212,7 +212,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A parameterized constructor is a constructor that takes arguments to initialize an object with specific values at the time of its creation.</p>
     </td>
   </tr>
 
@@ -224,7 +224,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A non-parameterized constructor (also called a default constructor) is a constructor that does not take any arguments and is used to initialize an object with default values.</p>
     </td>
   </tr>
 
@@ -236,7 +236,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Polymorphism is the ability of a single function, method, or object to take multiple forms. It allows the same operation to be performed in different ways, typically through method overloading and method overriding.</p>
     </td>
   </tr>
 
@@ -248,7 +248,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>An interface is a contract that defines a set of abstract methods that must be implemented by any class that adheres to it. It allows multiple classes to follow the same set of rules without enforcing implementation details.</p>
     </td>
   </tr>
 
@@ -260,7 +260,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Inheritance is the process by which a class (child/subclass) derives properties and behaviors from another class (parent/superclass). It promotes code reusability and hierarchy.</p>
     </td>
   </tr>
 
@@ -272,7 +272,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Abstraction is the concept of hiding implementation details and only showing the necessary features of an object. It allows users to interact with an object without needing to understand its complex internal workings.</p>
     </td>
   </tr>
 
@@ -284,7 +284,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A package is a way to group related classes and interfaces together in an organized manner. It helps in preventing name conflicts and improving code maintainability.</p>
     </td>
   </tr>
 
@@ -296,7 +296,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Encapsulation is the process of restricting direct access to certain details of an object and only allowing controlled access through public methods. It ensures data security and integrity.</p>
     </td>
   </tr>
 
@@ -308,7 +308,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The default access modifier (also called package-private) means that a class, method, or variable is accessible only within the same package and not outside it.</p>
     </td>
   </tr>
 
@@ -320,7 +320,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The public access modifier allows a class, method, or variable to be accessible from anywhere in the program, including different packages.</p>
     </td>
   </tr>
 
@@ -332,7 +332,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The private access modifier restricts access to a class, method, or variable to only within the same class, making it inaccessible from outside the class.</p>
     </td>
   </tr>
 
@@ -344,7 +344,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The protected access modifier allows access within the same package and by subclasses in different packages, providing a balance between security and accessibility.</p>
     </td>
   </tr>
 
@@ -356,7 +356,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The static keyword is used to define variables or methods that belong to the class rather than an instance of the class. Static members are shared among all instances of the class and can be accessed without creating an object.</p>
     </td>
   </tr> 
 </table>  
