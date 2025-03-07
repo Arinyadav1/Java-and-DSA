@@ -13,7 +13,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The if-else statement is a conditional control structure that executes different blocks of code based on whether a condition is true or false.</p>
     </td>
   </tr>
 
@@ -25,7 +25,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The switch statement allows multi-way branching based on the value of an expression. It replaces multiple if-else conditions for better readability.</p>
     </td>
   </tr>
 
@@ -38,7 +38,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A while loop executes a block of code repeatedly as long as a specified condition is true.</p>
     </td>
   </tr>
 
@@ -50,7 +50,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A do-while loop is similar to a while loop but ensures the block of code executes at least once before checking the condition.</p>
     </td>
   </tr>
 
@@ -62,7 +62,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A for loop is a control structure that allows repeating a block of code for a specific number of times.</p>
     </td>
   </tr>        
 
@@ -74,7 +74,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The break statement is used to exit a loop or switch statement before it normally terminates.</p>
     </td>
   </tr>
 
@@ -86,7 +86,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>The continue statement skips the current iteration and moves to the next iteration of the loop.</p>
     </td>
   </tr>
 
@@ -98,7 +98,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Operators are symbols that perform operations on variables and values.</p>
     </td>
   </tr>
 
@@ -110,7 +110,10 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Type casting converts one data type into another.
+
+Implicit Casting (Widening): Automatically converts smaller data types to larger ones.
+Explicit Casting (Narrowing): Manually converts larger data types to smaller ones.</p>
     </td>
   </tr>
 
@@ -122,7 +125,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A function (or method in Java) is a reusable block of code that performs a specific task.</p>
     </td>
   </tr>
 
@@ -134,7 +137,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>An array is a collection of elements of the same data type stored in contiguous memory locations.</p>
     </td>
   </tr>
 
@@ -146,7 +149,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A String is a sequence of characters, commonly used for text processing.</p>
     </td>
   </tr>
 
@@ -158,7 +161,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Bit Manipulation involves operations on bits using bitwise operators (&, |, ^, ~, <<, >>).</p>
     </td>
   </tr>
 
@@ -169,7 +172,7 @@
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>An exception is an event that disrupts the normal flow of a program.</p>
     </td>
   </tr>  
      
