@@ -551,8 +551,528 @@
   </tr>
 </table>  
 
-## Solve Problems
+## Solved Problems
 <table>
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Add_two_matrix.java">Add Two Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Array_Rotation.java">Array Rotation</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Binary_to_Decimal.java">Binary to Decimal</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Boundary_of_matrix.java">Print Boundary Of Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Check_two_array.java">Compare Similar Array</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/CombinationOFSum.java">Combination Of Sum</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Copy_Array.java">Copy Array</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Decimal_to_binary.java">Decimal to Binary</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Determinant_of_matrix.java">Determinant Of Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Diagonal_Matrix.java">Sum of Diagnoal of Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Find_Smallest.java">Find Smallest in the Array</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Find_largest.java">Find Largest in the Array</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Find_distance_of_string.java">Find Distance of the String</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Integer_to_roman.java">Integer to Roman</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Min_and_Max.java">Find Min and Max in Array</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Normal_and_trace.java">Find Normal and Trace of the Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Nqueen_problem.java">NQueen Problem</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Replace_strings.java">Alphabetical Characters Name to Mathamatical Digits</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Roman_to_integer.java">Roman to Integer</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sort_Asend.java">Ascending Sorting</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sort_Desend.java">Desending Sorting</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Sphere.java">Find Surface Area of Sphere</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Spiral_order_matrix.java">Spiral Order Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Transpose.java">Transpose of Matrix</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/adult_kiddish_finder.java">Adult and Kiddish Finder</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr> 
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/calculator.java">Calculator</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/find_days_by_day_number.java">Find Day Name by Day Number</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/String_program_java/Remove_dublicate.java">Remove Dublicate Characters in String</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/String_program_java/Print_username.java">Print Username</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Tower_of_Hanoi.java">Tower of Hanoi</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Subsequence.java">Subsequence</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Unique_Subsequence.java">Unique Subsequence</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Fibonacci.java">Fibonacci Series</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="">if-else</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
 <tr>
     <td>
       <il>
