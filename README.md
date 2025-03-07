@@ -371,7 +371,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Bubble Sort is a simple sorting algorithm that repeatedly compares adjacent elements and swaps them if they are in the wrong order. This process continues until the array is sorted. It has a time complexity of O(n²) in the worst case.</p>
     </td>
   </tr>
 
@@ -383,7 +383,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Insertion Sort is a sorting algorithm that builds the sorted array one item at a time by picking the next element and placing it in its correct position. It is efficient for small or nearly sorted datasets, with a worst-case time complexity of O(n²).</p>
     </td>
   </tr>
 
@@ -395,7 +395,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Selection Sort sorts an array by repeatedly finding the smallest element from the unsorted part and swapping it with the first unsorted element. It has a time complexity of O(n²).</p>
     </td>
   </tr>
 
@@ -407,7 +407,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Merge Sort is a divide-and-conquer sorting algorithm that splits an array into smaller subarrays, sorts them recursively, and then merges them back together in sorted order. It has a time complexity of O(n log n).</p>
     </td>
   </tr>
 
@@ -418,7 +418,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Quick Sort is a divide-and-conquer sorting algorithm that selects a pivot element, partitions the array into two subarrays (elements smaller and larger than the pivot), and recursively sorts them. It has an average time complexity of O(n log n).</p>
     </td>
   </tr>
 
@@ -430,7 +430,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>Recursion is a programming technique where a function calls itself to solve a problem. It breaks down complex problems into simpler subproblems and is commonly used in algorithms like factorial computation, Fibonacci sequence, and tree traversal.</p>
     </td>
   </tr>
 
@@ -442,7 +442,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>An ArrayList is a dynamic array in Java that allows resizing and provides fast random access. Unlike regular arrays, it can grow or shrink dynamically as elements are added or removed.</p>
     </td>
   </tr>
 
@@ -454,7 +454,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A LinkedList is a data structure where elements (nodes) are stored in non-contiguous memory locations and are linked using pointers. It allows efficient insertions and deletions but has slower random access compared to an ArrayList.</p>
     </td>
   </tr>
 
@@ -466,7 +466,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A Stack is a linear data structure that follows the LIFO (Last In, First Out) principle. Elements are added (pushed) and removed (popped) from the top of the stack.</p>
     </td>
   </tr>
 
@@ -478,7 +478,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A Queue is a linear data structure that follows the FIFO (First In, First Out) principle. Elements are added at the rear and removed from the front.</p>
     </td>
   </tr>
 
@@ -490,7 +490,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A Binary Tree is a hierarchical data structure in which each node has at most two children: a left child and a right child. It is used in searching, sorting, and hierarchical data representation.</p>
     </td>
   </tr>
 
@@ -502,7 +502,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A Binary Search Tree (BST) is a special type of binary tree where the left child contains values smaller than the parent node, and the right child contains values greater than the parent node. It allows efficient searching, insertion, and deletion operations.</p>
     </td>
   </tr>
 
@@ -514,7 +514,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A HashMap is a data structure that stores key-value pairs and allows fast access using a hash function. It provides an average time complexity of O(1) for search, insert, and delete operations.</p>
     </td>
   </tr>
 
@@ -526,7 +526,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A HashSet is a collection that stores unique elements and does not allow duplicates. It is backed by a HashMap and provides an average time complexity of O(1) for basic operations.</p>
     </td>
   </tr>
 
@@ -537,7 +537,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A Trie (Prefix Tree) is a tree-based data structure used for storing and searching strings efficiently. It is commonly used in applications like autocomplete and dictionary lookups.</p>
     </td>
   </tr>
 
@@ -549,7 +549,7 @@ Explicit Casting (Narrowing): Manually converts larger data types to smaller one
       </il>
     </td>
     <td>
-      <p><i></p>
+      <p><i>A Graph is a data structure consisting of nodes (vertices) and edges (connections between nodes). It can be directed or undirected and is widely used in networks, social connections, and pathfinding algorithms.</p>
     </td>
   </tr>
 </table>  
