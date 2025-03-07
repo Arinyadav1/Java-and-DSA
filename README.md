@@ -980,13 +980,196 @@
 <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Keypad_Combination.java">Keypad Combination</a></li>
       </il>
     </td>
     <td>
       <p><i></p>
     </td>
   </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Move_maze.java">Move Maze</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Permutations.java">Permutations</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/PlaceTiles.java">Domino and Tromino Tiling</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Sum_Nth_Natural_Number.java">Sum of Nth Natural Number</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/pairing.java">Friends Pairing Problem</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Reverse_String.java">Reverse String</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Print_table.java">Print Table</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Occurence_Of_String.java">Occurence of String</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/TopologicalSorting.java">Topological Sorting</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Prims_Algoritham.java">Prims Algoritham</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Kosaraju_Algorithm.java">Kosaraju Algorithm</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Dijkstra_Algorithms.java">Dijkstra Algorithms</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/Bellman_Ford_Algorithm.java">Bellman Ford Algorithm</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Graph/ArticulationPoint.java">Articulation Point</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
+
+
+<tr>
+    <td>
+      <il>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Hashing/SubarraySum.java">Subarray Sum</a></li>
+      </il>
+    </td>
+    <td>
+      <p><i></p>
+    </td>
+  </tr>
+
 
 
 <tr>
@@ -1001,17 +1184,6 @@
   </tr>
 
 
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
 
 <tr>
     <td>
@@ -1024,113 +1196,6 @@
     </td>
   </tr>
 
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
 
 
 <tr>
