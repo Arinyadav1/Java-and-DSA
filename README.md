@@ -592,7 +592,7 @@
 <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/subsetOfInt.java">Subset of Int</a></li>
       </il>
     </td>
     <td>
@@ -616,7 +616,7 @@
 <tr>
     <td>
       <il>
-        <li><a href ="">if-else</a></li>
+        <li><a href ="https://github.com/Arinyadav1/Java-and-DSA/blob/main/Recursion_java/Print_x_power_nth.java">x to the power of n</a></li>
       </il>
     </td>
     <td>
@@ -1169,47 +1169,5 @@
       <p><i></p>
     </td>
   </tr>
-
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-
-<tr>
-    <td>
-      <il>
-        <li><a href ="">if-else</a></li>
-      </il>
-    </td>
-    <td>
-      <p><i></p>
-    </td>
-  </tr>
-
-
-
 
 </table>
