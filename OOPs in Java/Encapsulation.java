@@ -1,10 +1,19 @@
 import bank.*;
 
 public class Encapsulation {
+
+ class Student {
+     private String name; // data hidden
+     public void setName(String n) { // setter
+     name = n;}
+     public String getName() { // getter
+     return name;
+     }
+}
+    
     public static void main(String[] args) {
-        System.out.println("Bank Customer Details");
-        Bank bank = new Bank(); 
-        bank.setCustomerDetails("Ankit Yadav", 1234567890L, "ankit123@gmail.com", 1234567890L, 1000000.0);
-        System.out.println(bank.getName());      
+       Student s = new Student();
+       s.setName("John");
+       System.out.println(s.getName()); // Output: John
     }
 }
